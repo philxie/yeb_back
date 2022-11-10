@@ -1,9 +1,9 @@
 package com.xxxx.server.service.impl;
 
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import com.xxxx.mapper.EmployeeTrainMapper;
-import com.xxxx.pojo.EmployeeTrain;
-import com.xxxx.service.IEmployeeTrainService;
+import com.xxxx.server.mapper.EmployeeTrainMapper;
+import com.xxxx.server.pojo.EmployeeTrain;
+import com.xxxx.server.service.IEmployeeTrainService;
 import org.springframework.stereotype.Service;
 
 /**

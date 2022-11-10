@@ -1,9 +1,9 @@
 package com.xxxx.server.service.impl;
 
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import com.xxxx.mapper.OplogMapper;
-import com.xxxx.pojo.Oplog;
-import com.xxxx.service.IOplogService;
+import com.xxxx.server.mapper.OplogMapper;
+import com.xxxx.server.pojo.Oplog;
+import com.xxxx.server.service.IOplogService;
 import org.springframework.stereotype.Service;
 
 /**

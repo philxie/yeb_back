@@ -1,9 +1,9 @@
 package com.xxxx.server.service.impl;
 
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import com.xxxx.mapper.SysMsgMapper;
-import com.xxxx.pojo.SysMsg;
-import com.xxxx.service.ISysMsgService;
+import com.xxxx.server.mapper.SysMsgMapper;
+import com.xxxx.server.pojo.SysMsg;
+import com.xxxx.server.service.ISysMsgService;
 import org.springframework.stereotype.Service;
 
 /**

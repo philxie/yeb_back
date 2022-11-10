@@ -1,9 +1,9 @@
 package com.xxxx.server.service.impl;
 
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import com.xxxx.mapper.RoleMapper;
-import com.xxxx.pojo.Role;
-import com.xxxx.service.IRoleService;
+import com.xxxx.server.mapper.RoleMapper;
+import com.xxxx.server.pojo.Role;
+import com.xxxx.server.service.IRoleService;
 import org.springframework.stereotype.Service;
 
 /**
